@@ -3,5 +3,3 @@ class Smartphone:
         self.marka = marka
         self.model = model
         self.number = number
-
-    

@@ -1,4 +1,4 @@
-from lesson_1.smartphone import Smartphone
+from smartphone import Smartphone
 
 catalog = [
     Smartphone("Apple", "iPhone 14", "+79001234567"),

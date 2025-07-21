@@ -1,5 +1,5 @@
-from lesson_1.address import Address
-from lesson_1.mailing import Mailing
+from address import Address
+from mailing import Mailing
 
 to_addr = Address("123456", "Москва", "Ленина", "10", "15")
 from_addr = Address("654321", "Санкт-Петербург", "Невский проспект", "20", "7")
